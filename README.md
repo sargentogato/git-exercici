@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 README creado en la rama master
 
-Master: introduciendo cambio
+Branch1 Modificando el texto del archivo
